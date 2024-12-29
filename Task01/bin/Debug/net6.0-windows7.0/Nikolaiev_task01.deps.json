@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nikolaiev_task01/1.0.0": {
+        "runtime": {
+          "Nikolaiev_task01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nikolaiev_task01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
